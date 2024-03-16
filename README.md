@@ -12,5 +12,21 @@ When you start our program you have to upload the video you want to translate, t
 
 #Tech Section:
 
-LIbraries Used
+Libraries Used:
+1.Playsound.
+2.moviepy.
+3.pydub.
+4.speech_recognition.
+5.googletrans.
+6.gtts.
+
+Procedure: 
+I. Upload video.
+II. Select Language in which to translate.
+III. Audio will be generated.
+
+
+
+
+
 
