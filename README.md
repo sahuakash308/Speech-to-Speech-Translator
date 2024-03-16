@@ -6,5 +6,11 @@ IT(Information Technology) era. Correct set of Information enable individual to 
 
 All around the world there are many different languages which are not possible for every individual to know this creates a divide between people of different countries. To solve this problem we need translators which makes things silmpler and easier.
 
- Our program exactly does this.
- This program can 
+Our program exactly does this.
+This program can take video of english language and can translate it to many other different languages (At present Hindi only).
+When you start our program you have to upload the video you want to translate, then click on translate button below the file selection bar, then you have to select the language in which you want to translate your video. That's it your video is translated.
+
+#Tech Section:
+
+LIbraries Used
+
